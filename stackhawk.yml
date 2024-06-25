@@ -1,0 +1,8 @@
+# Username and password credentials via a form POST w/ session cookies to authorized routes.
+app:
+  applicationId: c136488e-f48b-4e26-ab8e-8554b3cf9e65
+  env: Test
+  host: https://jsonplaceholder.typicode.com/
+hawk:
+  spider:
+    maxDurationMinutes: 2
